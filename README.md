@@ -7,5 +7,7 @@ For the iPhone sales analysis task, I have collected a dataset from Kaggle conta
 Some of the takeaways from this article about the sales of iPhone in India are:
 
 APPLE iPhone 8 Plus (Gold, 64 GB) was the most appreciated iPhone in India
+
 iPhones with lower sale prices are sold more in India
+
 iPhones with high discounts are sold more in India
